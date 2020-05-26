@@ -1,13 +1,13 @@
 ---
-title: This is a Knowledge Template Header
+title: Last Days
 authors:
-- sally_smarts
-- wesly_wisdom
+- miko
+- jose
 tags:
 - knowledge
 - example
 created_at: 2016-06-29 00:00:00
-updated_at: 2020-05-26 08:41:32.265149
+updated_at: 2020-05-26 08:57:11.987494
 tldr: This is short description of the content and findings of the post.
 ---
 
